@@ -16,7 +16,6 @@ public class firstOccurrenceBS {
             }else{
                 end = mid - 1;
             }
-            
         }
         System.out.println(result);       
     }
