@@ -5,7 +5,7 @@ array then we have to print that number, and if it
 is not present then we need to print the largest 
 number, smaller than number, present in that array */
 
-// Example - arr = {2, 3, 7, 8, 9, 11} and number = 5 -----> It will print 3, as it is largest number which is smaller than 5.
+// Example - arr = {2, 3, 7, 8, 9, 11} and number = 5 ---> It will print 3, as it is largest number which is smaller than 5.
 
 public class floorOfNumber{
     public static void main(String args[]) {
